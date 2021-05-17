@@ -37,6 +37,7 @@ gem "ruby-progressbar"
 
 gem "letter_opener_web", "~> 1.3"
 
+gem "sentry-raven"
 gem "sprockets", "~> 3.7"
 
 group :development, :test do
